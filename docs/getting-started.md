@@ -12,9 +12,9 @@
 
 ## Installing git
 
-https://github.com/git-guides/install-git
+You will need to learn how to use git to manage your code and collaborate with others. [Learn to use git](./git)
 
-[Learn to use git](./git)
+[Install git](https://github.com/git-guides/install-git)
 
 ## Setting Up Your Development Environment
 
