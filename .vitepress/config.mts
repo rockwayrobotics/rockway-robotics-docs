@@ -19,7 +19,6 @@ export default defineConfig({
                 text: "WPILib Basics",
                 link: "/basics/intro",
                 items: [
-                    { text: "Installation and Setup", link: "/basics/setup" },
                     { text: "Hardware Control", link: "/basics/hardware-control" },
                     { text: "The Robot and RobotContainer Classes", link: "/basics/robot-and-robot-container" },
                 ],
