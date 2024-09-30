@@ -13,7 +13,7 @@ export default defineConfig({
                 items: [
                     { text: "Getting started", link: "/docs/getting-started" },
                     { text: "Learn to use git", link: "/docs/git" },
-                    { text: "Learn to use git", link: "/docs/code-layout" }
+                    { text: "Code layout", link: "/docs/code-layout" }
                 ],
             },
         ],
